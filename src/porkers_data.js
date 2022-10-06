@@ -2,7 +2,7 @@ const hogs = [
   {
     name: "Babe",
     specialty: "Being incredibly cute",
-    greased: false,
+    greased: "Not Greased",
     weight: 2.0,
     "highest medal achieved": "bronze",
     image:
@@ -11,7 +11,7 @@ const hogs = [
   {
     name: "Porkchop",
     specialty: "Making friends",
-    greased: true,
+    greased: "Greased",
     weight: 1.6,
     "highest medal achieved": "silver",
     image:
@@ -20,7 +20,7 @@ const hogs = [
   {
     name: "Cherub",
     specialty: "Flying",
-    greased: false,
+    greased: "Not Greased",
     weight: 0.7,
     "highest medal achieved": "gold",
     image:
@@ -29,7 +29,7 @@ const hogs = [
   {
     name: "Piggy smalls",
     specialty: "Rapping",
-    greased: true,
+    greased: "Greased",
     weight: 5.1,
     "highest medal achieved": "platinum",
     image:
@@ -38,7 +38,7 @@ const hogs = [
   {
     name: "Trouble",
     specialty: "Racing",
-    greased: true,
+    greased: "Greased",
     weight: 1.7,
     "highest medal achieved": "gold",
     image:
@@ -47,7 +47,7 @@ const hogs = [
   {
     name: "Piglet",
     specialty: "Bravery and friendship",
-    greased: false,
+    greased: "Not Greased",
     weight: 2.2,
     "highest medal achieved": "silver",
     image:
@@ -56,7 +56,7 @@ const hogs = [
   {
     name: "Peppa",
     specialty: "Being adventurous",
-    greased: false,
+    greased: "Not Greased",
     weight: 3.7,
     "highest medal achieved": "wood",
     image:
@@ -65,7 +65,7 @@ const hogs = [
   {
     name: "Truffle Shuffle",
     specialty: "Peeling oranges",
-    greased: true,
+    greased: "Greased",
     weight: 4.0,
     "highest medal achieved": "gold",
     image:
@@ -74,7 +74,7 @@ const hogs = [
   {
     name: "Bailey",
     specialty: "Finding truffles",
-    greased: false,
+    greased: "Not Greased",
     weight: 2.3,
     "highest medal achieved": "bronze",
     image:
@@ -83,7 +83,7 @@ const hogs = [
   {
     name: "Galaxy Note",
     specialty: "Cuddling",
-    greased: true,
+    greased: "Greased",
     weight: 1.9,
     "highest medal achieved": "diamond",
     image:
@@ -92,7 +92,7 @@ const hogs = [
   {
     name: "Leggo My Eggo",
     specialty: "Babysitting",
-    greased: true,
+    greased: "Greased",
     weight: 3.3,
     "highest medal achieved": "platinum",
     image:
